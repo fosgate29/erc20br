@@ -1,0 +1,29 @@
+{
+  "name": "erc20br",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fosgate29/erc20br.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fosgate29/erc20br/issues"
+  },
+  "homepage": "https://github.com/fosgate29/erc20br#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.3.0",
+    "ethers": "^5.1.0",
+    "hardhat": "^2.1.2",
+    "solidity-coverage": "^0.7.16"
+  }
+}
